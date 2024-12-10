@@ -1,4 +1,8 @@
-## Hi there 👋
+## ABOUT
+にこやかです。京都に生息しています。  
+
+Hello! I'm Nikoyaka.  
+I'm live in Kyoto.
 
 <!--
 **Nikoyaka9dd/Nikoyaka9dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
