@@ -1,5 +1,6 @@
 ## ABOUT
 にこやかです。京都に生息しています。  
+ちょくちょく怠慢になりながら、日々勉強しています。  
 
 Hello! I'm Nikoyaka.  
 I'm live in Kyoto.
