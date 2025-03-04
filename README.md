@@ -1,13 +1,11 @@
 ## ABOUT
-にこやかです。  
-主に京都に生息しています  
-ちょくちょく怠慢になりながら、日々勉強しています。  
+主に京都でひっそりと活動しています。
 
+I'm live in Kyoto.
 
-Hello! I'm Nikoyaka.  
-I'm live in Kyoto.  
-I study every day while taking it easy sometimes.
+日々勉強中です。
 
+I'm learning every day.
 
 <!--
 **Nikoyaka9dd/Nikoyaka9dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
